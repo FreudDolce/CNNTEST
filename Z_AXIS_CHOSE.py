@@ -1,6 +1,6 @@
 #===============================================
 # This programe used for chose false positive
-# Written by Liu Rong and Ji Hongchen
+# Written by Ji Hongchen
 # 20180806
 #===============================================
 

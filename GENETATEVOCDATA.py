@@ -1,6 +1,6 @@
 #======================================================
 #  Faster-RCNN data Generation
-#  Writed by Liur Rong & Ji Hongchen
+#  Writed by Ji Hongchen
 #  2018-07-31
 #======================================================
 import numpy as np

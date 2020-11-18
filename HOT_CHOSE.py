@@ -1,7 +1,7 @@
 #coding=utf-8
 #=========================================================
 # label the tumor space by 'hot space'
-# Written by Liu Rong & Ji Hongchen
+# Written by Ji Hongchen
 # 20180810
 #=========================================================
 import numpy as np

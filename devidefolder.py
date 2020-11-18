@@ -1,6 +1,6 @@
 #===========================================
 #Devide dicom files into different folders
-#Written by Liu Rong & Ji Hongchen
+#Written by Ji Hongchen
 #20180828
 #===========================================
 
